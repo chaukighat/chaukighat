@@ -17,7 +17,7 @@ align: center;
 <body>
 <div id="container">
 <center>
-<video autoplay controlls id="a"style="border:5px ridge aqua;border-radius:8px;video-align: center;"></video>
+<video autoplay controlls id="a"></video>
 </center>
 <script>
  var video = document.querySelector("#a");
